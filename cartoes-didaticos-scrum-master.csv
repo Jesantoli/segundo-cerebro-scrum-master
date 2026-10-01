@@ -1,0 +1,54 @@
+O que é o Scrum segundo a sua definição oficial?,"Uma estrutura leve que ajuda pessoas, equipes e organizações a gerar valor por meio de soluções adaptativas para problemas complexos."
+Quais são os dois pilares teóricos nos quais a estrutura do Scrum se fundamenta?,Empirismo e pensamento enxuto (lean thinking).
+O que preconiza o princípio do empirismo no Scrum?,Asserta que o conhecimento vem da experiência e que as decisões devem ser tomadas com base no que é observado.
+Qual é o foco principal do pensamento enxuto (lean thinking) integrado ao Scrum?,Reduzir o desperdício e focar estritamente nos elementos essenciais.
+Quais são os três pilares empíricos que sustentam o Scrum?,"Transparência, inspeção e adaptação."
+O pilar empírico que exige que o processo e o trabalho sejam visíveis para quem os realiza e os recebe é a _____.,Transparência
+Qual é a consequência de realizar a inspeção sem haver transparência nos artefatos do Scrum?,Ela se torna enganosa e gera desperdício de esforço.
+Quando uma Equipe Scrum deve realizar a adaptação de seus processos ou planos?,Imediatamente no momento em que aprende algo novo por meio da inspeção.
+Quais são os cinco valores fundamentais do Scrum?,"Compromisso, Foco, Abertura, Respeito e Coragem."
+Quais são as três responsabilidades específicas que constituem a Equipe Scrum (Scrum Team)?,"Desenvolvedores, Product Owner e Scrum Master."
+Qual é a recomendação de tamanho para uma Equipe Scrum manter a agilidade e produtividade?,Tipicamente 10 ou menos pessoas.
+O que significa dizer que uma Equipe Scrum é auto-gerenciável?,"Significa que ela decide internamente quem faz o quê, quando e como."
+O que caracteriza uma Equipe Scrum como multifuncional (cross-functional)?,Possuir todas as habilidades necessárias internamente para criar valor a cada Sprint.
+Pelo que a Equipe Scrum é inteiramente responsável a cada Sprint?,Pela criação de um Incremento valioso e útil.
+Qual é a responsabilidade central dos Desenvolvedores na Equipe Scrum?,Criar qualquer aspecto de um Incremento utilizável a cada Sprint.
+Quem é a pessoa responsável por criar o plano de trabalho diário e a estratégia da Sprint (Sprint Backlog)?,Os Desenvolvedores.
+Qual é a prestação de contas (accountability) principal do papel de Product Owner?,Maximizar o valor do produto resultante do trabalho da Equipe Scrum.
+A qual papel pertence a responsabilidade exclusiva pelo gerenciamento eficaz do Product Backlog?,Product Owner.
+Como o Product Owner se estrutura em relação à tomada de decisão na organização?,"Trata-se de exatamente uma pessoa, e não de um comitê."
+Pelo que o Scrum Master é diretamente responsável em relação à equipe?,Pela eficácia da Equipe Scrum e por estabelecer o Scrum conforme definido no Guia.
+Como o Scrum Master atua em relação à remoção de obstáculos para a equipe?,Causando a remoção de impedimentos ao progresso da Equipe Scrum.
+Qual evento atua como um contêiner para todos os outros eventos formais do Scrum?,A Sprint.
+Qual é a duração máxima estipulada para uma Sprint?,Um mês civil ou menos.
+Quando é iniciada uma nova Sprint no ciclo do Scrum?,Imediatamente após a conclusão da Sprint anterior.
+Sob qual condição única uma Sprint pode ser cancelada antes de seu término?,Quando a Meta da Sprint (Sprint Goal) se torna obsoleta.
+Quem possui autoridade exclusiva para decidir pelo cancelamento de uma Sprint?,O Product Owner.
+Qual é o objetivo principal do evento Sprint Planning?,Iniciar a Sprint definindo o trabalho e o plano de execução a ser realizado.
+Quais são os três tópicos centrais debatidos durante o Sprint Planning?,"Por que a Sprint é valiosa, o que pode ser feito e como o trabalho escolhido será realizado."
+Qual é o limite de tempo (timebox) máximo do Sprint Planning para uma Sprint de um mês?,Oito horas.
+Qual é o objetivo central da Daily Scrum?,Inspecionar o progresso em direção à Meta da Sprint e adaptar o Sprint Backlog conforme necessário.
+A Daily Scrum é um evento de 15 minutos projetado exclusivamente para os _____.,Desenvolvedores
+Qual é o objetivo principal do evento Sprint Review?,Inspecionar o resultado da Sprint com os stakeholders e determinar adaptações futuras para o Product Backlog.
+Como a Sprint Review deve ser conduzida para evitar perder sua função empírica?,"Como uma sessão de trabalho colaborativa, evitando limitar-se a uma simples apresentação ou demonstração."
+Qual é a duração máxima (timebox) da Sprint Review em uma Sprint de um mês?,Quatro horas.
+Qual é o objetivo principal do evento Sprint Retrospective?,Planejar maneiras de aumentar a qualidade e a eficácia da equipe para as Sprints futuras.
+O que a Equipe Scrum inspeciona especificamente durante a Sprint Retrospective?,"Como foi a última Sprint em relação a indivíduos, interações, processos, ferramentas e à Definição de Concluído."
+Qual é a duração máxima (timebox) da Sprint Retrospective para uma Sprint de um mês?,Três horas.
+Quais são os três artefatos formais definidos pelo Scrum?,"Product Backlog, Sprint Backlog e Incremento."
+O Product Backlog é uma lista emergente e ordenada que tem como compromisso formal a _____.,Meta do Produto (Product Goal)
+O que é o processo contínuo de refinamento do Product Backlog?,O ato de desmembrar e definir itens do Product Backlog em partes menores e mais precisas.
+Quais são os três elementos que compõem formalmente o Sprint Backlog?,"A Meta da Sprint (por quê), os itens selecionados do Product Backlog (o quê) e o plano de entrega acionável (como)."
+Qual é o compromisso formal associado ao artefato Sprint Backlog?,A Meta da Sprint (Sprint Goal).
+O que define conceitualmente um Incremento no Scrum?,Um passo concreto em direção à Meta do Produto que deve ser utilizável e funcional.
+Qual é o compromisso formal associado ao artefato Incremento?,A Definição de Concluído (Definition of Done).
+Em que momento exato um item do Product Backlog se transforma em um Incremento?,No momento em que atende totalmente à Definição de Concluído.
+"No processo de facilitação de equipes, qual é o objetivo do pensamento divergente?","Coletar perspectivas diversas, opções alternativas e gerar ideias sem nenhum julgamento."
+O que busca o processo de pensamento convergente nas discussões de equipe?,Agrupar e avaliar ideias variadas para construir soluções inclusivas e tomar decisões.
+O que é a chamada 'Zona de Gemido' (Groan Zone) definida por Sam Kaner?,O estágio desconfortável de frustração e confusão que ocorre na transição entre o pensamento divergente e o convergente.
+Qual é o objetivo principal da facilitação quando uma equipe se encontra na 'Zona de Gemido'?,Ajudar o grupo a construir um entendimento compartilhado com escuta ativa e empatia.
+Qual é o resultado de fechar discussões precocemente por impaciência na solução de problemas complexos?,A criação de uma falsa ilusão de alinhamento e soluções incompletas ou insustentáveis.
+"De acordo com Dave West, qual é a responsabilidade primordial do Scrum Master ao adotar ferramentas de Inteligência Artificial?",Aumentar e potencializar a eficácia da equipe.
+Como a Inteligência Artificial pode servir como parceira de facilitação para um Scrum Master?,Sintetizando perspectivas diversas em retrospectivas ou modelando dependências complexas no planejamento.
+Por que a engenharia de prompts ('prompt engineering') tornou-se uma habilidade importante para líderes agilistas?,Permite formular instruções precisas e contextualizadas para obter insights e artefatos de alta qualidade rapidamente.
+Quais são duas preocupações éticas essenciais na utilização de IA em equipes Scrum?,Proteger dados proprietários/confidenciais e evitar vieses embutidos nos modelos de IA.
